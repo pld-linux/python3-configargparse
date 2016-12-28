@@ -7,7 +7,7 @@
 Summary:	A Python module with support for argparse, config files, and env variables
 Name:		python-configargparse
 Version:	0.9.3
-Release:	1
+Release:	2
 License:	MIT
 Source0:	https://pypi.python.org/packages/source/C/%{module}/%{module}-%{version}.tar.gz
 # Source0-md5:	69273e8099661cd12985b85d795ab73e
